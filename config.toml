@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hClarity'
+theme = 'clarity'
 
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
