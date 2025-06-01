@@ -1,10 +1,10 @@
 baseURL = 'https://pemsite.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pemsite'
 theme = 'hClarity'
 
 # title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-copyright = "Copyright © 2025, pm; all rights reserved."
+copyright = "Copyright © 2025, pmX; all rights reserved."
 # canonifyurls = true
 
 disqusShortname = ""
