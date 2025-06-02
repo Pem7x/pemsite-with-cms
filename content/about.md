@@ -1,25 +1,23 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Security Architecture, All in One Place"
+date = "2025-06-01"
+aliases = ["about-us", "contact"]
+author = "Pem"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+This blog explores the intersection of security architecture and modern systems design. From microservices to distributed Systems architectures, we examine how scalable, resilient systems can be built with security in mind. We belief in the Principles of Minimalism, Simplicity and Secure by Design.
 
-Hugo makes use of a variety of open source projects including:
+The best systems are secure by design and resilient by architecture.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+We write for engineers, architects, and students interested in the deeper principles behind modern software systems — how they scale, how they fail, and how they defend themselves. While security remains central to our focus, we understand that it doesn’t exist in isolation. Instead, it must work in harmony with scalability, Distributed systems, Domain-driven architectures, and service-oriented design...
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Topics we cover include:
+* Security Architecture
+* Distributed Systems
+* Microservices Architecture
+* Scalable Design Principles
+* Principle of Minimalism
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This blog is both technical and reflective — part study guide, part design journal. We aim to help you ask better questions, draw clearer diagrams, and build systems that scale securely and simply from day one.
+Most Importantly we Learn, We do, We improve.
