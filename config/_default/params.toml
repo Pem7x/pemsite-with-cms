@@ -153,7 +153,7 @@ blogDir = "post"
 
 # website author
 [author]
-name = "Maurine Awesome"
+name = "Security X"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
