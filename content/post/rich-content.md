@@ -1,6 +1,6 @@
 +++
 author = "Pem"
-title = "Rich Content"
+title = "Welcome Home"
 date = "2025-06-02"
 description = "Welcome Home"
 tags = [
