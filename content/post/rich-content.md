@@ -1,44 +1,30 @@
 +++
-author = "Hugo Authors"
+author = "Pem"
 title = "Rich Content"
-date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+date = "2025-06-02"
+description = "Welcome Home"
 tags = [
-    "shortcodes",
-    "privacy",
+    "securitybydesign",
+    "security",
 ]
 thumbnail = "images/dollar.png"
 
 +++
+Welcome to XXX
+This blog is dedicated to exploring how to build resilient, scalable, and secure systems — right from the start.
 
-Hugo ships with several [Embedded Shortcodes](https://gohugo.io/content-management/shortcodes/#embedded) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+We focus on Secure by Design principles, emphasizing minimalism, simplicity, and the software-defined perimeter approach, to help engineers, architects, and learners design systems that stand strong against evolving threats while scaling efficiently.
 
-## Instagram Simple Shortcode
+What You’ll Find Here
+* In-depth technical guides on building secure, distributed systems and microservices.
+* Educational resources covering Zero Trust, SDP, least privilege, and defense-in-depth.
+* Systems design principles focused on scalability, fault tolerance, and minimal complexity.
+* Practical patterns for secure service-to-service communication and access control.
+* Thoughtful analyses of real-world architectures and emerging technologies.
 
-<br>
-
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube izYiDDt6d8s >}}
-
-<br>
-
----
-
-## X Simple Shortcode
-
-{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
-
-See shortcode [documentation](https://gohugo.io/shortcodes/x/) for more details.
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+Core Design Principles
+* Secure by Design: Integrate security from day one.
+* Minimalism & Simplicity: Reduce complexity to improve security and maintainability.
+* Least Privilege & Zero Trust: Assume breach, verify everything.
+* Scalability & Resilience: Build systems that grow and adapt.
+* Software-Defined Perimeter: Dynamic, identity-driven access control.
